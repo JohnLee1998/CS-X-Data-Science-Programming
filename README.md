@@ -1,3 +1,3 @@
 # CS-X-Data-Science-Programming
-#week_1
-#progress
+# week_1
+# progress
