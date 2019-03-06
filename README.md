@@ -1,5 +1,9 @@
-# CS-X-Data-Science-Programming
+### CS-X-Data-Science-Programming
 week_1<br>
 -------
-    progress:
+    ##progress:<br>
+    * In class:<br>
+        a.Learn Github<br>
+        b.Intro to class
+    * HWO
 
